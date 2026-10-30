@@ -1,0 +1,11 @@
+measure,value
+Total records,50000
+Unique product IDs,19
+Unique platforms,5
+Unique categories,1
+Missing timestamps,0
+Missing prices,0
+Non-positive prices,0
+Negative discounts,0
+Discounts above 100%,0
+Exact duplicate rows,0

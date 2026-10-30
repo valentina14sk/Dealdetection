@@ -1,0 +1,5 @@
+flag,total_records,missing_records,flagged_records,flagged_percentage
+fake_discount_flag,50000,0,0,0
+price_spike_flag,50000,0,85,0.17
+is_all_time_low,50000,0,2345,4.69
+is_all_time_high,50000,0,342,0.684

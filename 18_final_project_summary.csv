@@ -1,0 +1,11 @@
+metric,value
+Rows loaded,50000
+Valid analysis records,50000
+Unique products,19
+Unique platforms,5
+Unique categories,1
+Mean advertised discount,49.803402
+Median advertised discount,54.05
+Potential warning records,19056
+Unique products with warning records,19
+Exact duplicate rows,0

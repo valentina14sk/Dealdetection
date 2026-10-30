@@ -1,0 +1,2 @@
+records,mean_absolute_error,median_absolute_error,maximum_absolute_error,correlation
+50000,0.0245690218156945,0.0246232162033522,0.0499999999999989,0.999998793070604
